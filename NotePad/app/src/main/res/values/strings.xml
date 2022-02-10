@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NotePad</string> // and used EditActivity
+
+    //ActivityCalendar
+    <string name="text_date_calendarActivity">Выберите дату</string>
+    <string name="text_time_calendarActivity">Выберите время</string>
+
+    //ActivityCalendarMain
+    <string name="text_selection_time_">Выбрано время с %d:00 до %d:00</string>
+    <string name="text_date">Выберите дату отображения заметок</string>
+    <string name="text_selection_date">Выбрана дата %d/%d/%d</string>
+    <string name="date_sendEditActivity">%d/%d/%d</string>
+    <string name="bt_text">Показать все заметки</string>
+    <string name="new_date">- Текущая дата</string>
+    <string name="numberTextDate">%d</string>
+
+    //EditActivity
+    <string name="ButtonTextEditActivity">C %d:00 до %d:00 </string>
+    <string name="add_date_start">Заданная дата и время</string>
+    <string name="hint_desc">Подробное содержание</string>
+    <string name="hint_title">Добавить заголовок</string>
+    <string name="save_note">Сохранить заметку</string>
+
+    //MainActivity
+    <string name="no_elements">Нет задач</string>
+    <string name="date_text_main_button">Выберите дату</string>
+    <string name="add_note">Добавить заметку</string> // and used ActivityCalendarMain
+    <string name="all_note">все заметки</string>
+
+    //DeleteItem
+    <string name="check_delete">Вы действительно хотите удалить?</string>
+    <string name="delete_text_item">Удалить</string>
+    <string name="button_text_item">Отменить</string>
+</resources>
